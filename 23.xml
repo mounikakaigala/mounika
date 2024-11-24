@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.12.1</version> <!-- Adjust to the latest version -->
+    </dependency>
+</dependencies>
